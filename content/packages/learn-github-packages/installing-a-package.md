@@ -1,3 +1,5 @@
+![Screenshot_20220103-185735~2](https://user-images.githubusercontent.com/89814050/161010543-caf6c7fa-fba5-4438-abf3-92fc04cb8167.png)
+![IMG_20220325_115344](https://user-images.githubusercontent.com/89814050/161010763-a1f0a502-08e3-460a-b67f-c0bddd28a2b0.jpg)
 ---
 title: Installing a package
 intro: 'You can install a package from {% data variables.product.prodname_registry %} and use the package as a dependency in your own project.'
